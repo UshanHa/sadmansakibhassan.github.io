@@ -1,0 +1,165 @@
+html { font-size: 10px;
+font-family: Helvetica, Arial, sans-serif; }
+
+
+header, main { padding: 0.4rem;
+background-color:10px green solid
+}
+ 
+
+
+
+</head>
+
+<style>
+
+h1 {line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-size: large;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 3;
+  padding: 0.6;
+  overflow: hidden;
+  background-color: #57002B
+
+}
+
+section {
+  display: block;
+color: #F8F0FF;
+padding: 1.8rem;
+font-size: large;
+background-color: #57002B;
+}
+
+
+footer {
+ color: #FFF;
+ background-color: #9900ff;
+ padding: 12px;
+ padding: 10px;
+ margin-top: 25px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 45px;
+ height: auto;
+ width: 80%;
+display: block;
+float: middle;
+position: static;
+position: clip;
+height: 45px;
+  width: 35%;
+
+}
+
+
+
+header {
+    background-color: #FF8C1A;
+    border-bottom-color: #5900b3;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    line-height: 1.8;
+    padding: 0.6rem;
+    margin-top: 35px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 450px;
+    display: block;
+float: middle;
+position: clip;
+height: 90px;
+  width: 80%;
+
+}
+
+
+
+li {
+  float: left;
+display: inline;
+  display: block;
+  color: #white;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+background-color: #800000;
+font-size: large;
+}
+
+a {font-size: large;
+   background-color: #66FFFF;
+ } /*font size for the links <a>*/
+
+
+
+body {
+    background-color: #66ffff;
+}
+p { max-width: 1400px;
+    background-color: #008020;
+    line-height: 1.6;
+   font-size: large;
+width: 1400px;
+    margin: auto;
+  border: 2px solid #cc0000;
+}
+
+main {max-width: 150px;
+      margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 25px;
+display: contents;
+float: right;
+position: clip;
+height: 100px;
+  width: 90%;
+}/*settings for <main>*/
+
+
+nav#ushan-navigation ul li {
+display: inline-block;
+padding: 1.5em;
+border-right: 2px solid red;
+margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+float: right;
+position: clip;
+height: 100px;
+  width: 90%;
+}
+
+
+a:link { color: #e60000; }
+
+a:visited { color: #990073; }
+
+a:hover { color: #cc3300; background-color: #ebebe0; text-decoration: none; }
+
+a:active { color: #ebebe0; background-color: #cc3300; text-decoration: none; }
+
+
+
+</style>
+
+
+
+
+
+
+
